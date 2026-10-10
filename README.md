@@ -8,12 +8,14 @@ I'm an aspiring IT professional from Egypt, looking for an **Ausbildung or Duals
 - Learning new things and helping people
 
 ## What I've built
-- **Bank System / ATM System**: console-based banking applications in C++
-- **Rock-Paper-Scissors, Math Game, Calculator**: small games and tools in C++
+- **[Bank Management System & Currency Exchange](https://github.com/lilsplinter/Bank-System)**: console banking application in C++ with role-based permissions, audit logs and a currency calculator
+- **ATM System, Rock-Paper-Scissors, Math Game, Calculator**: small applications and games in C++
 - **String Library, Date Library, Input Validation Class**: reusable C++ libraries
 
 ## Background
-- Completed coursework in low-level programming and system engineering/DevOps with ALX (projects are private)
+- Completed 12 courses of the ProgrammingAdvices roadmap: C++ (levels 1–2), algorithms and problem solving, object-oriented programming and data structures
+- ITI Mahara-Tech: Cybersecurity for Beginners (networking fundamentals, network security, ethical hacking, Python fundamentals)
+- AI Data Specialist at Alignerr (freelance, since July 2025): testing and reviewing AI models
 
 ## Languages
 🇪🇬 Arabic · 🇬🇧 English · 🇩🇪 German (B2)
