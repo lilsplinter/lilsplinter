@@ -16,8 +16,8 @@ I'm an aspiring IT professional from Egypt, looking for an **Ausbildung or Duals
 - Completed coursework in low-level programming and system engineering/DevOps with ALX (projects are private)
 
 ## Languages
-🇪🇬 Arabic · 🇬🇧 English · 🇩🇪 German (B1)
+🇪🇬 Arabic · 🇬🇧 English · 🇩🇪 German (B2)
 
 ## Contact
-- LinkedIn: [add your link]
-- Email: [add your email]
+- LinkedIn: https://www.linkedin.com/in/lilsplinter/
+- Email: a7medmedo17@gmail.com
