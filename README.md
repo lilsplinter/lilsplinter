@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**lilsplinter/lilsplinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring IT professional from Egypt, looking for an **Ausbildung or Dualstudium in IT in Germany**.
 
-Here are some ideas to get you started:
+## What I'm into
+- Backend development
+- Cybersecurity
+- Learning new things and helping people
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built
+- **Bank System / ATM System**: console-based banking applications in C++
+- **Rock-Paper-Scissors, Math Game, Calculator**: small games and tools in C++
+- **String Library, Date Library, Input Validation Class**: reusable C++ libraries
+
+## Background
+- Completed coursework in low-level programming and system engineering/DevOps with ALX (projects are private)
+
+## Languages
+🇪🇬 Arabic · 🇬🇧 English · 🇩🇪 German (B1)
+
+## Contact
+- LinkedIn: [add your link]
+- Email: [add your email]
