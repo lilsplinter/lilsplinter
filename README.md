@@ -22,4 +22,4 @@ I'm an aspiring IT professional from Egypt, looking for an **Ausbildung or Duals
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/lilsplinter/
-- Email: a7medmedo17@gmail.com
+- Email:  ahmed.hussein.ahmed.it@gmail.com
